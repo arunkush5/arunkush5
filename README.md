@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ArunKush
 - 👀 I’m interested in Linux Technologies
 - 🌱 I’m currently working as Technical Engineer
-- 💞️ I’m looking opportunities on DevOps Tools  
+- 💞️ I’m looking to collabrate with my repos.  
 - I'd like to travelling and adventure. 
 - 📫 You can reach me here...
           Facebook: @arunkush2786
