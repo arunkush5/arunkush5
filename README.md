@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Arun Kushwaha from Mumbai, Maharashtra <br><br>- 🔭 I’m working as DevOps Engineer<br>- 📚 I'm currently learning GO and Openshift<br>- ⚡ In my free time I spend time with friends and family. </p>
+<p align="left">I'm Arun Kushwaha from Mumbai, Maharashtra <br><br>- 🔭 I'm a passionate DevOps engineer with a strong background in cloud infrastructure, automation, and container orchestration.<br>- 📚 I thrive on solving complex problems, from migrating monolithic applications to microservices architectures and optimizing Kubernetes workloads for better cluster performance.<br>- ⚡ Proficient in managing and monitoring cloud resources with tools like Terraform and AWS, I'm also enhancing my skills in OpenShift and learning Golang to implement best practices in a DevOps playground.  </p>
 
 ###
 
